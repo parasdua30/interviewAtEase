@@ -21,14 +21,16 @@ A real-time peer-to-peer video interview platform built with React and WebRTC te
 ## 🏃‍♂️ Getting Started
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/InterviewAtEase.git
+bash
+    git clone https://github.com/yourusername/InterviewAtEase.git
+
 2. Install dependencies:
-```bash
-cd InterviewAtEase/client && npm install
+bash
+    cd InterviewAtEase/client && npm install
+
 3. Start the development server:
-```bash
-npm run dev
+bash
+    npm run dev
 ## 🔧 Configuration
 
 The project uses STUN servers from Google and Twilio for NAT traversal:
